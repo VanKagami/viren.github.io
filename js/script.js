@@ -23,3 +23,6 @@ let words = '';
 	setTimeout(ngetik, 500);
 
 })();
+
+
+
